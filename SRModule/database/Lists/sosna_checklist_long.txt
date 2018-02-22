@@ -1,0 +1,246 @@
+adjusted and locked - 0
+All switches - 1
+Alternate air door - 2
+Aircraft Documents - 3
+Battery plus main bus - 4
+Cabin doors - 5
+Circuit Breakers - 6
+Cockpit checklist completed - 7
+Completed - 8
+Flight Controls - 9
+Fuel Quantity - 10
+Fuel Selector - 11
+Fuel Shutoff Valve - 12
+Fuel Temperature - 13
+Preflight Inspection - 14
+Seats and Belts - 15
+Shut off Cabin heat - 16
+Sufficient - 17
+Weight and balance - 18Samir_Sesna_speech - 0
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+6 - 6
+7 - 7
+8 - 8
+9 - 9
+aboard - 10
+acdoc - 11
+adjustedandloocked - 12
+allswitches - 13
+alternateairoor - 14
+battery+mainbus - 15
+cabindoors - 16
+cheked - 17
+circuitbreakers - 18
+closed - 19
+Cockpit - 20
+cock[pitchecklist - 21
+completed - 22
+decimal - 23
+firstake - 24
+flightcontrols - 25
+fuelquantity - 26
+fuelselelector - 27
+fuelshutoffvalve - 28
+fueltemperature - 29
+in - 30
+locked - 31
+off - 32
+on - 33
+open - 34
+preflight - 35
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+6 - 6
+7 - 7
+8 - 8
+9 - 9
+aboard - 10
+checked - 11
+closed - 12
+cockpit - 13
+cockpit_61 - 13
+cockpit_62 - 14
+cockpit_63 - 15
+cockpit_64 - 16
+cockpit_65 - 17
+cockpit_66 - 18
+cockpit_67 - 19
+cockpit_68 - 20
+cockpit_69 - 21
+cockpit_70 - 22
+cockpit_71 - 23
+cockpit_72 - 24
+cockpit_73 - 25
+cockpit_75 - 26
+cockpit_76 - 27
+cockpit_77 - 28
+cockpit_78 - 29
+cockpit_79 - 30
+cockpit_80 - 31
+cockpit_s - 32
+completed - 34
+decimal - 35
+in - 36
+locked - 37
+off - 38
+on - 39
+open - 40
+removed - 41
+sufficient - 42
+towbar - 43
+adjusted and locked - 0
+adjusted and locked - 0
+all switches - 1
+alternate air door - 2
+a_c documents - 3
+battery plus main bus - 4
+cabin doors - 5
+circuit breakers - 6
+cockpit cheklist completed - 7
+completed - 8
+flight controls - 9
+fuel quantity - 10
+fuel selector - 11
+fuel shutoff valve - 12
+fuel temperature - 13
+preflight inspection - 14
+seats and belts - 15
+Shut off cabin heat - 16
+sufficient - 17
+weight and balance - 18
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+6 - 6
+7 - 7
+8 - 8
+9 - 9
+aboard - 10
+checked - 11
+closed - 12
+cockpit - 13
+cockpit_61 - 13
+cockpit_62 - 14
+cockpit_63 - 15
+cockpit_64 - 16
+cockpit_65 - 17
+cockpit_66 - 18
+cockpit_67 - 19
+cockpit_68 - 20
+cockpit_69 - 21
+cockpit_70 - 22
+cockpit_71 - 23
+cockpit_72 - 24
+cockpit_73 - 25
+cockpit_75 - 26
+cockpit_76 - 27
+cockpit_77 - 28
+cockpit_78 - 29
+cockpit_79 - 30
+cockpit_80 - 31
+cockpit_s - 32
+completed - 34
+decimal - 35
+in - 36
+locked - 37
+off - 38
+on - 39
+open - 40
+removed - 41
+sufficient - 42
+towbar - 43
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+6 - 6
+7 - 7
+8 - 8
+9 - 9
+aboard - 10
+checked - 11
+closed - 12
+cockpit - 13
+completed - 14
+decimal - 15
+in - 16
+locked - 17
+off - 18
+on - 19
+open - 20
+removed - 21
+sufficient - 22
+towbar - 23
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+6 - 6
+7 - 7
+8 - 8
+9 - 9
+aboard - 10
+checked - 11
+closed - 12
+cockpit - 13
+completed - 14
+decimal - 15
+in - 16
+locked - 17
+off - 18
+on - 19
+open - 20
+removed - 21
+sufficient - 22
+towbar - 23
+adjusted and locked - 0
+all switches - 1
+alternate air door - 2
+a_c documents - 3
+battery plus main bus - 4
+cabin doors - 5
+circuit breakers - 6
+Cockpit checklist completed - 7
+completed - 8
+flight controls - 9
+fuel quantity - 10
+fuel selector - 11
+fuel shutoff valve - 12
+fuel temperature - 13
+preflight inspection - 14
+seats and belts - 15
+Shut off cabin heat - 16
+sufficient - 17
+weight and balance - 18

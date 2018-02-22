@@ -1,0 +1,4 @@
+digitsList.txt-5840
+checkList.txt-10000
+sosna_checkList_short.txt-7120
+sosna_checkList_long.txt-16400 

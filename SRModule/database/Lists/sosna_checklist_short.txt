@@ -1,0 +1,37 @@
+0 - 0
+1 - 1
+2 - 2
+3 - 3
+4 - 4
+5 - 5
+6 - 6
+7 - 7
+8 - 8
+9 - 9
+Aboard - 10
+Checked - 11
+Closed - 12
+Cockpit - 13
+Completed - 14
+Decimal - 15
+in - 16
+Locked - 17
+Off - 18
+On - 19
+Open - 20
+Removed - 21
+Sufficient - 22
+Towbar - 23
+"aboard","Checked",
+"Closed"
+,"Cockpit"
+,"Completed"
+,"decimal"
+,"in" 
+,"locked"
+,"off"
+,"On" 
+,"open" 
+,"Removed" 
+,"sufficient" 
+,"Towbar" 

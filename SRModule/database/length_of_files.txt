@@ -1,0 +1,591 @@
+first take_102-1.wav - 7900
+first take_102-10.wav - 7900
+first take_102-11.wav - 7800
+first take_102-12.wav - 8200
+first take_102-13.wav - 7600
+first take_102-14.wav - 8400
+first take_102-15.wav - 9200
+first take_102-16.wav - 8100
+first take_102-17.wav - 7600
+first take_102-18.wav - 7700
+first take_102-19.wav - 8600
+first take_102-2.wav - 8300
+first take_102-20.wav - 8300
+first take_102-21.wav - 8300
+first take_102-22.wav - 9100
+first take_102-24.wav - 9400
+first take_102-3.wav - 8600
+first take_102-4.wav - 8400
+first take_102-5.wav - 8700
+first take_102-6.wav - 8500
+first take_102-7.wav - 8400
+first take_102-8.wav - 8400
+first take_102-9.wav - 7800
+first take_103-1.wav - 8700
+first take_103-10.wav - 8500
+first take_103-11.wav - 8500
+first take_103-12.wav - 8800
+first take_103-13.wav - 11200
+first take_103-14.wav - 11500
+first take_103-15.wav - 9900
+first take_103-16.wav - 10800
+first take_103-17.wav - 9600
+first take_103-18.wav - 9100
+first take_103-19.wav - 8500
+first take_103-2.wav - 9900
+first take_103-20.wav - 9100
+first take_103-21.wav - 9000
+first take_103-22.wav - 8400
+first take_103-23.wav - 10100
+first take_103-24.wav - 8400
+first take_103-25.wav - 11000
+first take_103-3.wav - 10500
+first take_103-5.wav - 14300
+first take_103-6.wav - 13300
+first take_103-7.wav - 11200
+first take_103-8.wav - 9700
+first take_103-9.wav - 8600
+first take_104-1.wav - 10500
+first take_104-10.wav - 8700
+first take_104-11.wav - 9200
+first take_104-12.wav - 9300
+first take_104-13.wav - 10000
+first take_104-14.wav - 9800
+first take_104-15.wav - 7800
+first take_104-16.wav - 9500
+first take_104-17.wav - 6700
+first take_104-18.wav - 8700
+first take_104-19.wav - 9200
+first take_104-2.wav - 9800
+first take_104-20.wav - 8800
+first take_104-21.wav - 9000
+first take_104-22.wav - 9500
+first take_104-23.wav - 9600
+first take_104-24.wav - 9800
+first take_104-25.wav - 9300
+first take_104-26.wav - 10000
+first take_104-27.wav - 9200
+first take_104-28.wav - 10300
+first take_104-29.wav - 8400
+first take_104-3.wav - 9400
+first take_104-30.wav - 8800
+first take_104-31.wav - 9600
+first take_104-4.wav - 8600
+first take_104-5.wav - 7600
+first take_104-6.wav - 8400
+first take_104-7.wav - 7500
+first take_104-8.wav - 9000
+first take_104-9.wav - 9300
+first take_61-1.wav - 9500
+first take_61-10.wav - 8000
+first take_61-2.wav - 9700
+first take_61-3.wav - 9700
+first take_61-4.wav - 9500
+first take_61-5.wav - 9100
+first take_61-6.wav - 9700
+first take_61-7.wav - 9900
+first take_61-8.wav - 8200
+first take_61-9.wav - 8800
+first take_62-1.wav - 8700
+first take_62-10.wav - 8700
+first take_62-2.wav - 8900
+first take_62-3.wav - 9400
+first take_62-4.wav - 8500
+first take_62-5.wav - 9400
+first take_62-6.wav - 9800
+first take_62-7.wav - 9300
+first take_62-8.wav - 9000
+first take_62-9.wav - 9500
+first take_63-1.wav - 8200
+first take_63-10.wav - 9400
+first take_63-2.wav - 8700
+first take_63-3.wav - 8800
+first take_63-4.wav - 8900
+first take_63-5.wav - 9200
+first take_63-6.wav - 8700
+first take_63-7.wav - 9000
+first take_63-8.wav - 10000
+first take_63-9.wav - 10100
+first take_64-1.wav - 11200
+first take_64-10.wav - 12000
+first take_64-2.wav - 10300
+first take_64-3.wav - 10200
+first take_64-4.wav - 10600
+first take_64-5.wav - 9800
+first take_64-6.wav - 11000
+first take_64-7.wav - 10500
+first take_64-8.wav - 10800
+first take_64-9.wav - 11800
+first take_65-1.wav - 10700
+first take_65-10.wav - 7100
+first take_65-2.wav - 8300
+first take_65-3.wav - 8200
+first take_65-4.wav - 7500
+first take_65-5.wav - 9300
+first take_65-6.wav - 8000
+first take_65-7.wav - 7600
+first take_65-8.wav - 7200
+first take_65-9.wav - 8000
+first take_66-1.wav - 7200
+first take_66-10.wav - 7800
+first take_66-2.wav - 7600
+first take_66-3.wav - 8200
+first take_66-4.wav - 8300
+first take_66-5.wav - 9100
+first take_66-6.wav - 9600
+first take_66-7.wav - 8800
+first take_66-8.wav - 9000
+first take_66-9.wav - 9000
+first take_67-1.wav - 11100
+first take_67-2.wav - 9400
+first take_67-4.wav - 8300
+first take_67-5.wav - 8500
+first take_67-6.wav - 8300
+first take_67-7.wav - 8700
+first take_67-8.wav - 8200
+first take_67-9.wav - 9000
+first take_68-1.wav - 9400
+first take_68-2.wav - 9500
+first take_68-3.wav - 8300
+first take_68-4.wav - 8900
+first take_68-5.wav - 8300
+first take_68-6.wav - 9000
+first take_68-7.wav - 8800
+first take_68-8.wav - 8900
+first take_69-1.wav - 7000
+first take_69-10.wav - 4900
+first take_69-2.wav - 6000
+first take_69-3.wav - 6200
+first take_69-4.wav - 5900
+first take_69-5.wav - 6000
+first take_69-6.wav - 6600
+first take_69-7.wav - 6600
+first take_69-8.wav - 5600
+first take_69-9.wav - 6000
+first take_70-1.wav - 11200
+first take_70-10.wav - 10200
+first take_70-2.wav - 9200
+first take_70-3.wav - 9000
+first take_70-4.wav - 8900
+first take_70-5.wav - 9700
+first take_70-6.wav - 10200
+first take_70-7.wav - 8700
+first take_70-8.wav - 9000
+first take_70-9.wav - 9700
+first take_72-1.wav - 7300
+first take_72-10.wav - 7800
+first take_72-2.wav - 8300
+first take_72-3.wav - 7900
+first take_72-4.wav - 7500
+first take_72-5.wav - 8100
+first take_72-6.wav - 8000
+first take_72-7.wav - 7900
+first take_72-8.wav - 8800
+first take_72-9.wav - 7700
+first take_73-1.wav - 9700
+first take_73-10.wav - 8400
+first take_73-2.wav - 8900
+first take_73-3.wav - 8600
+first take_73-4.wav - 9000
+first take_73-5.wav - 9200
+first take_73-6.wav - 9300
+first take_73-7.wav - 8800
+first take_73-8.wav - 8700
+first take_73-9.wav - 9500
+first take_74-1.wav - 13300
+first take_74-10.wav - 8000
+first take_74-2.wav - 11300
+first take_74-3.wav - 8100
+first take_74-4.wav - 7800
+first take_74-5.wav - 6800
+first take_74-6.wav - 8000
+first take_74-7.wav - 7100
+first take_74-8.wav - 7800
+first take_74-9.wav - 7800
+first take_75-2.wav - 8400
+first take_75-3.wav - 8700
+first take_75-4.wav - 8900
+first take_75-5.wav - 8200
+first take_75-6.wav - 8700
+first take_75-7.wav - 9600
+first take_75-8.wav - 8100
+first take_75-9.wav - 8000
+first take_76-1.wav - 8400
+first take_76-10.wav - 8200
+first take_76-2.wav - 9200
+first take_76-3.wav - 8000
+first take_76-4.wav - 9400
+first take_76-5.wav - 8400
+first take_76-6.wav - 7900
+first take_76-7.wav - 7900
+first take_76-8.wav - 8300
+first take_76-9.wav - 7200
+first take_77-1.wav - 12100
+first take_77-10.wav - 9000
+first take_77-2.wav - 9900
+first take_77-3.wav - 8300
+first take_77-4.wav - 9900
+first take_77-5.wav - 9800
+first take_77-6.wav - 10400
+first take_77-7.wav - 11100
+first take_77-8.wav - 9200
+first take_77-9.wav - 9400
+first take_79-1.wav - 9400
+first take_79-10.wav - 9800
+first take_79-2.wav - 9800
+first take_79-3.wav - 9400
+first take_79-4.wav - 9600
+first take_79-5.wav - 9800
+first take_79-6.wav - 9900
+first take_79-7.wav - 9500
+first take_79-8.wav - 10300
+first take_79-9.wav - 9100
+first take_80-1.wav - 8400
+first take_80-10.wav - 7200
+first take_80-2.wav - 7600
+first take_80-3.wav - 7100
+first take_80-4.wav - 6900
+first take_80-5.wav - 7400
+first take_80-6.wav - 6500
+first take_80-7.wav - 7400
+first take_80-8.wav - 6800
+first take_80-9.wav - 7100
+firstake_samir-1.wav - 11800
+firstake_samir-10.wav - 10300
+firstake_samir-2.wav - 10500
+firstake_samir-3.wav - 10300
+firstake_samir-4.wav - 10300
+firstake_samir-5.wav - 9700
+firstake_samir-6.wav - 10000
+firstake_samir-7.wav - 9700
+firstake_samir-8.wav - 9500
+firstake_samir-9.wav - 9700
+First_take_1-1.wav - 11000
+First_take_10-1.wav - 12600
+First_take_11-1.wav - 11200
+First_take_12-1.wav - 12500
+First_take_13-1.wav - 11600
+First_take_14-1.wav - 12500
+First_take_15-1.wav - 12900
+First_take_16-1.wav - 12600
+First_take_17-1.wav - 13600
+First_take_18-1.wav - 13300
+First_take_19-1.wav - 12300
+First_take_2-1.wav - 11400
+First_take_20-1.wav - 11700
+First_take_21-1.wav - 12400
+First_take_22-1.wav - 11700
+First_take_23-1.wav - 11500
+First_take_24-1.wav - 12500
+First_take_25-1.wav - 11900
+First_take_26-1.wav - 11500
+First_take_27-1.wav - 11700
+First_take_28-1.wav - 12300
+First_take_29-1.wav - 11800
+First_take_3-1.wav - 10500
+First_take_30-1.wav - 12300
+First_take_31-1.wav - 11700
+First_take_32-1.wav - 11700
+First_take_33-1.wav - 12400
+First_take_34-1.wav - 12300
+First_take_35-1.wav - 13000
+First_take_36-1.wav - 13000
+First_take_37-1.wav - 13400
+First_take_38-1.wav - 11900
+First_take_39-1.wav - 10400
+First_take_4-1.wav - 10600
+First_take_40-1.wav - 11500
+First_take_41-1.wav - 11900
+First_take_42-1.wav - 12800
+First_take_43-1.wav - 12400
+First_take_44-1.wav - 11600
+First_take_45-1.wav - 13800
+First_take_46-1.wav - 12700
+First_take_47-1.wav - 12300
+First_take_48-1.wav - 11700
+First_take_49-1.wav - 11600
+First_take_5-1.wav - 11500
+First_take_50-1.wav - 11700
+First_take_6-1.wav - 12100
+First_take_7-1.wav - 12800
+First_take_8-1.wav - 12100
+First_take_9-1.wav - 12200
+Mean Length - 9424
+second take_102-1.wav - 9000
+second take_102-10.wav - 9800
+second take_102-11.wav - 9600
+second take_102-12.wav - 10800
+second take_102-13.wav - 9800
+second take_102-14.wav - 9900
+second take_102-15.wav - 10300
+second take_102-16.wav - 10400
+second take_102-17.wav - 10000
+second take_102-18.wav - 11200
+second take_102-19.wav - 10100
+second take_102-2.wav - 9200
+second take_102-20.wav - 9900
+second take_102-21.wav - 10800
+second take_102-23.wav - 9800
+second take_102-24.wav - 9100
+second take_102-3.wav - 9200
+second take_102-4.wav - 10900
+second take_102-5.wav - 9900
+second take_102-6.wav - 10400
+second take_102-7.wav - 10700
+second take_102-8.wav - 9900
+second take_102-9.wav - 9800
+second take_103-1.wav - 10300
+second take_103-10.wav - 9400
+second take_103-11.wav - 9700
+second take_103-12.wav - 9600
+second take_103-13.wav - 10300
+second take_103-15.wav - 10300
+second take_103-16.wav - 13500
+second take_103-17.wav - 10400
+second take_103-18.wav - 11200
+second take_103-19.wav - 10000
+second take_103-2.wav - 10000
+second take_103-21.wav - 13000
+second take_103-22.wav - 13600
+second take_103-23.wav - 12400
+second take_103-24.wav - 12200
+second take_103-25.wav - 11900
+second take_103-26.wav - 12200
+second take_103-3.wav - 9500
+second take_103-4.wav - 14700
+second take_103-5.wav - 8800
+second take_103-6.wav - 9200
+second take_103-7.wav - 10100
+second take_103-8.wav - 9600
+second take_103-9.wav - 11000
+second take_104-10.wav - 10700
+second take_104-11.wav - 9000
+second take_104-12.wav - 8600
+second take_104-13.wav - 9300
+second take_104-14.wav - 8800
+second take_104-15.wav - 8500
+second take_104-16.wav - 9000
+second take_104-17.wav - 8600
+second take_104-18.wav - 10200
+second take_104-19.wav - 10000
+second take_104-2.wav - 9300
+second take_104-20.wav - 9300
+second take_104-21.wav - 10300
+second take_104-22.wav - 10200
+second take_104-23.wav - 9900
+second take_104-24.wav - 9900
+second take_104-25.wav - 8300
+second take_104-26.wav - 8900
+second take_104-27.wav - 9100
+second take_104-28.wav - 7800
+second take_104-29.wav - 8500
+second take_104-3.wav - 9900
+second take_104-30.wav - 9100
+second take_104-4.wav - 9700
+second take_104-5.wav - 8700
+second take_104-6.wav - 9000
+second take_104-7.wav - 9700
+second take_104-8.wav - 9400
+second take_104-9.wav - 9400
+second take_61-1.wav - 9400
+second take_61-2.wav - 7900
+second take_61-3.wav - 7600
+second take_61-4.wav - 7500
+second take_61-5.wav - 7900
+second take_61-6.wav - 7400
+second take_61-7.wav - 7700
+second take_61-8.wav - 7300
+second take_61-9.wav - 8100
+second take_62-2.wav - 10000
+second take_62-3.wav - 8800
+second take_62-4.wav - 10200
+second take_62-5.wav - 9000
+second take_62-6.wav - 8900
+second take_62-7.wav - 8500
+second take_62-8.wav - 8600
+second take_63-1.wav - 9300
+second take_63-10.wav - 9300
+second take_63-2.wav - 9400
+second take_63-3.wav - 8500
+second take_63-4.wav - 8900
+second take_63-5.wav - 9400
+second take_63-6.wav - 9500
+second take_63-7.wav - 10600
+second take_63-8.wav - 9700
+second take_63-9.wav - 9800
+second take_64-1.wav - 12000
+second take_64-10.wav - 9800
+second take_64-2.wav - 11900
+second take_64-3.wav - 11300
+second take_64-4.wav - 11700
+second take_64-5.wav - 10800
+second take_64-6.wav - 10700
+second take_64-7.wav - 10200
+second take_64-8.wav - 11000
+second take_64-9.wav - 10900
+second take_66-1.wav - 9000
+second take_66-10.wav - 8700
+second take_66-2.wav - 8200
+second take_66-3.wav - 8700
+second take_66-4.wav - 8900
+second take_66-5.wav - 8700
+second take_66-6.wav - 8500
+second take_66-7.wav - 8700
+second take_66-8.wav - 8700
+second take_66-9.wav - 9500
+second take_67-1.wav - 9200
+second take_67-10.wav - 7500
+second take_67-2.wav - 8500
+second take_67-3.wav - 8700
+second take_67-4.wav - 8200
+second take_67-5.wav - 9200
+second take_67-6.wav - 7900
+second take_67-7.wav - 8500
+second take_67-8.wav - 7600
+second take_67-9.wav - 7000
+second take_68-1.wav - 9000
+second take_68-10.wav - 8900
+second take_68-2.wav - 9300
+second take_68-3.wav - 9200
+second take_68-4.wav - 8000
+second take_68-5.wav - 8000
+second take_68-6.wav - 8000
+second take_68-7.wav - 8100
+second take_68-8.wav - 8200
+second take_68-9.wav - 7400
+second take_70-1.wav - 11600
+second take_70-10.wav - 7900
+second take_70-2.wav - 9700
+second take_70-3.wav - 9600
+second take_70-4.wav - 9100
+second take_70-5.wav - 9800
+second take_70-6.wav - 9700
+second take_70-7.wav - 9400
+second take_70-8.wav - 8700
+second take_70-9.wav - 9300
+second take_71-3.wav - 7200
+second take_71-4.wav - 6900
+second take_71-5.wav - 7700
+second take_71-6.wav - 7000
+second take_72-1.wav - 9900
+second take_72-10.wav - 9900
+second take_72-2.wav - 9100
+second take_72-3.wav - 9100
+second take_72-4.wav - 9900
+second take_72-5.wav - 9200
+second take_72-6.wav - 8700
+second take_72-7.wav - 9100
+second take_72-8.wav - 9700
+second take_72-9.wav - 9400
+second take_73-1.wav - 9800
+second take_73-10.wav - 9000
+second take_73-2.wav - 10300
+second take_73-3.wav - 9300
+second take_73-4.wav - 9500
+second take_73-5.wav - 9500
+second take_73-6.wav - 9300
+second take_73-7.wav - 9700
+second take_73-8.wav - 8300
+second take_73-9.wav - 9400
+second take_74-1.wav - 9600
+second take_74-2.wav - 8800
+second take_74-4.wav - 7200
+second take_74-5.wav - 7800
+second take_74-6.wav - 7300
+second take_74-7.wav - 8600
+second take_75-1.wav - 7900
+second take_75-3.wav - 8100
+second take_75-4.wav - 7700
+second take_75-5.wav - 7100
+second take_76-1.wav - 9400
+second take_76-10.wav - 7400
+second take_76-2.wav - 8300
+second take_76-3.wav - 7200
+second take_76-4.wav - 7400
+second take_76-5.wav - 7700
+second take_76-6.wav - 7900
+second take_76-7.wav - 7700
+second take_76-8.wav - 7400
+second take_76-9.wav - 7400
+second take_77-1.wav - 8300
+second take_77-2.wav - 8700
+second take_77-3.wav - 9300
+second take_77-4.wav - 7600
+second take_77-5.wav - 8100
+second take_77-6.wav - 9000
+second take_77-7.wav - 8000
+second take_77-9.wav - 8300
+second take_79-1.wav - 11700
+second take_79-10.wav - 9400
+second take_79-2.wav - 9900
+second take_79-3.wav - 10500
+second take_79-4.wav - 10800
+second take_79-5.wav - 10000
+second take_79-6.wav - 10100
+second take_79-7.wav - 9500
+second take_79-8.wav - 9100
+second take_79-9.wav - 10400
+second take_80-2.wav - 7800
+second take_80-4.wav - 8600
+second take_80-5.wav - 9000
+second take_80-6.wav - 8700
+second take_80-7.wav - 8200
+secondtake_samir-10.wav - 6900
+secondtake_samir-2.wav - 7400
+secondtake_samir-3.wav - 7400
+secondtake_samir-4.wav - 7200
+secondtake_samir-6.wav - 6900
+secondtake_samir-7.wav - 7600
+secondtake_samir-8.wav - 6700
+secondtake_samir-9.wav - 7400
+Second_take_1-1.wav - 14100
+Second_take_10-1.wav - 13600
+Second_take_11-1.wav - 14000
+Second_take_12-1.wav - 13400
+Second_take_13-1.wav - 14300
+Second_take_14-1.wav - 13600
+Second_take_15-1.wav - 14100
+Second_take_16-1.wav - 14600
+Second_take_17-1.wav - 15700
+Second_take_18-1.wav - 15900
+Second_take_19-1.wav - 15200
+Second_take_2-1.wav - 12600
+Second_take_20-1.wav - 14700
+Second_take_21-1.wav - 16200
+Second_take_22-1.wav - 14400
+Second_take_23-1.wav - 16300
+Second_take_24-1.wav - 15400
+Second_take_25-1.wav - 15000
+Second_take_26-1.wav - 16200
+Second_take_27-1.wav - 15400
+Second_take_28-1.wav - 14200
+Second_take_29-1.wav - 14900
+Second_take_3-1.wav - 12500
+Second_take_30-1.wav - 13600
+Second_take_31-1.wav - 16300
+Second_take_32-1.wav - 14900
+Second_take_33-1.wav - 15000
+Second_take_34-1.wav - 14900
+Second_take_35-1.wav - 15300
+Second_take_36-1.wav - 14300
+Second_take_37-1.wav - 12600
+Second_take_38-1.wav - 14600
+Second_take_39-1.wav - 13300
+Second_take_4-1.wav - 12500
+Second_take_40-1.wav - 15100
+Second_take_41-1.wav - 12600
+Second_take_42-1.wav - 13000
+Second_take_43-1.wav - 15100
+Second_take_44-1.wav - 14100
+Second_take_45-1.wav - 14300
+Second_take_46-1.wav - 14800
+Second_take_47-1.wav - 15700
+Second_take_48-1.wav - 15400
+Second_take_49-1.wav - 13900
+Second_take_5-1.wav - 13700
+Second_take_50-1.wav - 15200
+Second_take_6-1.wav - 14200
+Second_take_7-1.wav - 14200
+Second_take_8-1.wav - 14500
+Second_take_9-1.wav - 13400
+Mean Length - 9774

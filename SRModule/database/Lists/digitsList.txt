@@ -1,0 +1,10 @@
+Sıfır - 0
+Bir - 1
+İki - 2
+Üç - 3
+Dörd - 4
+Beş - 5
+Altı - 6
+Yeddi - 7
+Səkkiz - 8
+Doqquz - 9

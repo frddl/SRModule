@@ -1,5 +1,5 @@
 # SRModule
-Speech Recognition in Flight Simulation. Senior Design Project by ADA University students.
+Speech Recognition in Flight Simulation. Senior Design Project by ADA University students - Ramil Hasanov, Elmin Gasimov, Farid Mammadov and Orkhan Jabrailov.
 As a developed implementation to manual control of systems, Speech Recognition offers direct access to the most of the cockpit functions.
 In this research project, we designed and demonstrated a prototype for Speech Recognition in Flight Simulation.
 
